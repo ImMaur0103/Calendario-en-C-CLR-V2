@@ -1,0 +1,7 @@
+﻿  Calendario 3.0.cpp
+c:\users\mau_l\source\repos\calendario 3.0\calendario 3.0\calendario 3.0.cpp(1): warning C4005: '__CLR_VER': macro redefinition
+  c:\users\mau_l\source\repos\calendario 3.0\calendario 3.0\pch.cpp: note: see previous definition of '__CLR_VER'
+c:\users\mau_l\source\repos\calendario 3.0\calendario 3.0\calendario 3.0.cpp(1): warning C4651: '/D__CLR_VER=40804250' specified for precompiled header but not for current compile
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calendario 3.0.vcxproj -> C:\Users\mau_l\source\repos\Calendario 3.0\Debug\Calendario 3.0.exe
